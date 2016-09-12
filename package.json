@@ -1,0 +1,23 @@
+{
+  "name": "noroibot",
+  "version": "0.0.1",
+  "description": "Reddit bot for placing a curse on another user for a limited time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbisono/NoroiBot.git"
+  },
+  "keywords": [
+    "reddit",
+    "bot"
+  ],
+  "author": "mbisono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbisono/NoroiBot/issues"
+  },
+  "homepage": "https://github.com/mbisono/NoroiBot#readme"
+}
